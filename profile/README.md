@@ -25,7 +25,7 @@ Inoltre, utilizzeremo
 -	Swagger Editor (<https://editor.swagger.io/>) per scrivere in maniera assistita le specifiche OpenAPI
 
 
-Purtroppo questi tre software, soprattutto la JDK, sono soggetti a
+Purtroppo questi software, soprattutto la JDK, sono soggetti a
 continui aggiornamenti, che oltre a correggere problemi e aggiungere
 funzionalità possono, talvolta, introdurre bug e incompatibilità
 rispetto agli esempi presentati durante il corso, che si basano su una
@@ -52,7 +52,7 @@ sono le seguenti:
 applicazioni web**: mentre Tomcat 9 utilizza la JEE 8 Web, Tomcat 10 usa
 la Jakarta EE 9 Web, il che rende necessario intervenire manualmente
 modificando i package di molte classi utilizzate dalle web applications.
-Nel corso di Web Engineering useremo ancora Tomcat 10, ma
+Nel corso di Web Engineering useremo Tomcat 10, ma
 mostreremo come adattare le applicazioni per l'esecuzione su Tomcat 9.
 
 **Attenzione: La JDK 16 introduce delle novità che rendono incompatibili
