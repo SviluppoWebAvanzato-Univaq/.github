@@ -1,4 +1,4 @@
-# [**Sviluppo Web Avanzato**](https://people.disim.univaq.it/~dellapenna/content.php?page=students) course
+# **Sviluppo Web Avanzato** course
 > University of L'Aquila, Italy
 
 **Course pages**: https://sviluppowebavanzato-univaq.github.io
